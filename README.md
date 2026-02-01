@@ -18,4 +18,5 @@ How to Run Project:
 5. Start Apache & MySQL
 6. Open browser and go to http://localhost/my_project/index.php
 
+
 Developed by: Rishi Kumar
